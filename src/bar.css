@@ -1,0 +1,4 @@
+body {
+  color: var(--fg-color, #f00);
+  background: var(--bg-color, #fff);
+}
